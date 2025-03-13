@@ -1,0 +1,5 @@
+Espresso
+Americano
+Macchiato
+Flat White
+Latte
